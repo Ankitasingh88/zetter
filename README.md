@@ -133,8 +133,8 @@ zetter/
 **Started:** November 22, 2024  
 **Finished:** December 10, 2024  
 **Total Commits:** [Will be many by the end!]  
-**Coffee Consumed:** Too much ☕  
-**Stack Overflow Visits:** Lost count 😅  
+**Coffee Consumed:** Too much 
+**Stack Overflow Visits:** Lost count 
 
 ## Resources That Helped Me
 
