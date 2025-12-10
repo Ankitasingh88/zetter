@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Healthy Food",
+    "subtitle": "Pure Nutrition",
+    "description": "Your key to success in healthy living. We focus on premium quality products with natural ingredients and authentic taste.",
+    "cta": "Discover"
+  },
+  "products": {
+    "title": "Our Products",
+    "viewAll": "View All Products",
+    "crunchyPeanutButter": {
+      "name": "Crunchy Peanut Butter",
+      "description": "100% natural peanut butter with crunchy texture. No added sugar, no palm oil, just pure goodness.",
+      "price": "129 SEK",
+      "features": ["100% Natural", "High Protein", "No Added Sugar", "Gluten Free"]
+    }
+  },
+  "about": {
+    "title": "Our Mission",
+    "description": "At Zetter, you will find a dedicated team focused on bringing you the healthiest, most delicious food products. We believe in pure ingredients and authentic flavors.",
+    "subtitle": "Together, we become an accurate partner for your health journey - from start to finish.",
+    "cta": "Curious about what Zetter can do for you?",
+    "readMore": "Read more about our products"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "info": "Get in touch with us for any questions about our products or partnerships."
+  },
+  "footer": {
+    "about": "About Zetter",
+    "products": "Products",
+    "social": "Social Media",
+    "contact": "Contact Us",
+    "rights": "Zetter. All Rights Reserved."
+  }
+}

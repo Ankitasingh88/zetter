@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "home": "Hem",
+    "products": "Produkter",
+    "about": "Om Oss",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Hälsosam Mat",
+    "subtitle": "Ren Näring",
+    "description": "Din nyckel till framgång i hälsosamt liv. Vi fokuserar på premiumkvalitet produkter med naturliga ingredienser och autentisk smak.",
+    "cta": "Upptäck"
+  },
+  "products": {
+    "title": "Våra Produkter",
+    "viewAll": "Se Alla Produkter",
+    "crunchyPeanutButter": {
+      "name": "Krispigt Jordnötssmör",
+      "description": "100% naturligt jordnötssmör med krispig konsistens. Inget tillsatt socker, ingen palmolja, bara ren godhet.",
+      "price": "129 SEK",
+      "features": ["100% Naturligt", "Högt Protein", "Inget Tillsatt Socker", "Glutenfritt"]
+    }
+  },
+  "about": {
+    "title": "Vårt Uppdrag",
+    "description": "På Zetter hittar du ett dedikerat team som fokuserar på att ge dig de hälsosammaste och mest läckra livsmedelsprodukterna. Vi tror på rena ingredienser och autentiska smaker.",
+    "subtitle": "Tillsammans blir vi en pålitlig partner för din hälsoresa - från start till mål.",
+    "cta": "Nyfiken på vad Zetter kan göra för dig?",
+    "readMore": "Läs mer om våra produkter"
+  },
+  "contact": {
+    "title": "Kontakta Oss",
+    "name": "Namn",
+    "email": "E-post",
+    "message": "Meddelande",
+    "send": "Skicka Meddelande",
+    "info": "Kontakta oss för frågor om våra produkter eller partnerskap."
+  },
+  "footer": {
+    "about": "Om Zetter",
+    "products": "Produkter",
+    "social": "Sociala Medier",
+    "contact": "Kontakta Oss",
+    "rights": "Zetter. Alla rättigheter förbehållna."
+  }
+}
