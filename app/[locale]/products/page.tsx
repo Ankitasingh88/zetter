@@ -62,7 +62,7 @@ export default function ProductsPage() {
               className="bg-gradient-to-br from-primary-peach to-primary-coral rounded-3xl h-[500px] flex items-center justify-center shadow-2xl"
             >
                <img
-                src="/images/peanutButter.jpg"
+                src="/images/peanutButter.JPG"
                 alt="Crunchy Peanut Butter"
                 className="w-full h-full object-cover"
               />
