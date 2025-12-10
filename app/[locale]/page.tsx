@@ -119,7 +119,7 @@ export default function HomePage() {
               {/* TODO: Replace with real product photos */}
               <div className="h-64 bg-gradient-to-br from-primary-peach to-primary-coral flex items-center justify-center">
                  <img
-                  src="/images/peanutButter.jpg"
+                  src="/images/peanutButter.JPG"
                   alt="Crunchy Peanut Butter"
                   className="w-full h-full object-cover"
                 />
