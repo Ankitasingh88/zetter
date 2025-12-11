@@ -1,6 +1,6 @@
-# Zetter Website 🥜
+# Zetter Website
 
-My thesis project for Futuregames Stockholm - December 2024
+My thesis project for Futuregames Stockholm - December 2025
 
 ## Quick Info
 
@@ -130,8 +130,8 @@ zetter/
 
 ## Development Notes
 
-**Started:** November 22, 2024  
-**Finished:** December 10, 2024  
+**Started:** November 22, 2025  
+**Finished:** December 10, 2025  
 **Total Commits:** [Will be many by the end!]  
 **Coffee Consumed:** Too much 
 **Stack Overflow Visits:** Lost count 

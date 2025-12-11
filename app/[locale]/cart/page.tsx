@@ -195,7 +195,7 @@ export default function CartPage() {
         }}
         onCancel={() => setShowClearModal(false)}
         title="Clear Your Cart?"
-        message="Are you sure you want to remove all items? This can't be undone! 😢"
+        message="Are you sure you want to remove all items?"
         confirmText="Yes, Clear Everything"
         cancelText="No, Keep Items"
         emoji="🗑️"

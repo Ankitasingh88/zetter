@@ -95,7 +95,7 @@ export default function Footer() {
         {/* Copyright section at bottom */}
         <div className="border-t border-primary-peach/30 mt-8 pt-8 text-center">
           <p className="text-sm text-neutral-cream/60">
-            © 2024 {footerTxt('rights')}
+            © 2025 {footerTxt('rights')}
           </p>
         </div>
       </div>

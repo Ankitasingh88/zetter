@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 // Custom confirmation modal
 // Much better than the ugly browser confirm() popup!
-// Made this to look nice and match our design
+// Made this to look nice and match my design
 
 interface ConfirmModalProps {
   isOpen: boolean;
