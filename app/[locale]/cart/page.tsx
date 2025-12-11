@@ -76,7 +76,7 @@ export default function CartPage() {
                   {/* Product image placeholder */}
                   <div className="w-24 h-24 bg-gradient-to-br from-primary-peach to-primary-coral rounded-xl flex items-center justify-center flex-shrink-0">
                     <img
-                      src="/images/peanutButter.jpg"
+                      src="/images/peanutButter.JPG"
                       alt={item.name}
                       className="w-full h-full object-cover"
                     />
